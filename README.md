@@ -23,3 +23,10 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+## Tech Used
+
+Hooks are a new addition in React environment. They let you use state and other React features without writing a class.
+Hooks are the functions which "hook into" React state and lifecycle features from function components.
+By using useEffect Hook, you tell React that your component needs to do something after render. React will remember the function you passed (we'll refer to it as our “effect”), and call it later after performing the DOM updates.
