@@ -15,6 +15,7 @@ const Homepage = () => {
   const globalStats = data?.data?.stats;
 
   if (isFetching) return <Loader />;
+  console.log("globalStats",globalStats);
 
   return (
     <>
