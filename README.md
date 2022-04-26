@@ -1,6 +1,12 @@
 # Cryptoverse - Explore the World of Cryptocurrency
 
+### [Live Site](https://cryptoverse-sunny.netlify.app/)
+
+
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+
+![cryptoverse-sunny](https://user-images.githubusercontent.com/17198965/165385320-2b33223e-249a-482e-863e-eb83a13b4fc9.png)
+
 
 ## Project Set Up
 
@@ -24,6 +30,7 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+API used: https://rapidapi.com.
 
 ## Tech Used
 
